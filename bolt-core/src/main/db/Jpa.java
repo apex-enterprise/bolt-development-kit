@@ -1,4 +1,4 @@
-package bolt.db;
+package main.db;
 
 public class Jpa {
 
