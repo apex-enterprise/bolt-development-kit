@@ -1,4 +1,4 @@
-package main.db.dat;
+package res;
 
 public class dat {
 

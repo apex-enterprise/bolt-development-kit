@@ -1,5 +1,4 @@
-package main.db;
-
+package db;
 
 public class Jpa {
 
